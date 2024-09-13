@@ -27,6 +27,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         int r,find;
+        System.out.println("<<----Here we are performing Binary Search---->>");
         System.out.print("Enter the Length of an Array: ");
         Scanner sc = new Scanner(System.in);
         r = sc.nextInt();
