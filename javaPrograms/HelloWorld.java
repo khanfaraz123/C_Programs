@@ -4,7 +4,7 @@ class HelloWorld {
         short myShort= 32767;		//range -32768 to 32767
 	int myInt = 2147483647		//range -2147483648 to 2147483647
 	long myLong = 15000000000L;	//range -9223372036854775808 to 9223372036854775807
-	float f1 = 35e3f;	
+	float f1 = 35e3f;	// e3 means three 0's after 35
 	double d1 = 12E4d;
 	
         System.out.println(myByte);
